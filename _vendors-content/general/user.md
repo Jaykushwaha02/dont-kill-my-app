@@ -3,6 +3,7 @@ manufacturer:
     - general
 ---
 
+### jay k.kushwaha .....+
 ### Android 6+
 
 Always check the following setting:
